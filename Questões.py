@@ -1,3 +1,4 @@
+
 def verificar_tipo_triangulo(a, b, c):
     if a + b <= c or a + c <= b or b + c <= a:
         raise ValueError("Triângulo inválido. A soma de dois lados deve ser maior que o terceiro lado.")
