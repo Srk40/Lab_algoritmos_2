@@ -20,7 +20,7 @@ except ValueError as ve:
     print(f"Erro: {ve}")
 
 
-######################
+#####################
 
 def avaliar_produto():
     try:
